@@ -3148,9 +3148,9 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
- .the-img-right-side-below {
-        width: 300px;
- }
+.the-img-right-side-below {
+    width: 300px;
+  }
 
 
 
@@ -4559,4 +4559,12 @@ input[type=text] {
 .div-backround-foote {
     width: 100%;
     background-color: #1a1a1a;
+}
+
+
+
+
+.div-the-whole-site {
+    width: 100%;
+    overflow: hidden;
 }
