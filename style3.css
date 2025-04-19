@@ -3148,6 +3148,10 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+ .the-img-right-side-below {
+        width: 300px;
+ }
+
 
 
 @media (min-width: 550px)  {
