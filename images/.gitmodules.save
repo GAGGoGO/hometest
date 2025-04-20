@@ -1,0 +1,3 @@
+[submodule "images/hometest"]
+    path = images/hometest
+    url = https://github.com/GAGGoGO/hometest.git
